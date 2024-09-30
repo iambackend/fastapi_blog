@@ -1,2 +1,2 @@
 # fastapi_blog
-FastA
+FastAPI Blog API
